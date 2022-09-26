@@ -1,0 +1,22 @@
+﻿  Moneydll.cpp
+F:\Programming\C++\laba6\Moneydll.cpp(9,2): warning C4273: Moneylib::Money::Money: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(19,3): message : см. предыдущее определение "{ctor}"
+F:\Programming\C++\laba6\Moneydll.cpp(23,2): warning C4273: Moneylib::Money::Money: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(17,3): message : см. предыдущее определение "{ctor}"
+F:\Programming\C++\laba6\Moneydll.cpp(29,2): warning C4273: Moneylib::Money::Read: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(18,22): message : см. предыдущее определение "Read"
+F:\Programming\C++\laba6\Moneydll.cpp(44,2): warning C4273: Moneylib::Money::toString: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(21,23): message : см. предыдущее определение "toString"
+F:\Programming\C++\laba6\Moneydll.cpp(50,2): warning C4273: Moneylib::Money::operator +: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(22,22): message : см. предыдущее определение "+"
+F:\Programming\C++\laba6\Moneydll.cpp(64,2): warning C4273: Moneylib::Money::Display: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(20,21): message : см. предыдущее определение "Display"
+F:\Programming\C++\laba6\Moneydll.cpp(69,2): warning C4273: Moneylib::operator -: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(23,30): message : см. предыдущее определение "-"
+F:\Programming\C++\laba6\Moneydll.cpp(79,2): warning C4273: Moneylib::operator *: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(24,30): message : см. предыдущее определение "*"
+F:\Programming\C++\laba6\Moneydll.cpp(89,2): warning C4273: Moneylib::operator /: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(25,30): message : см. предыдущее определение "/"
+F:\Programming\C++\laba6\Moneydll.cpp(106,2): warning C4273: Moneylib::operator ==: несовместимое связывание dll
+F:\Programming\C++\laba6\Moneydll.h(26,28): message : см. предыдущее определение "=="
+F:\Programming\C++\laba6\Moneydll.cpp(41): warning C4715: Moneylib::Money::Read: значение возвращается не при всех путях выполнения
